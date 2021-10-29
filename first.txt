@@ -3,3 +3,4 @@ i want this to go into commit 2
 changed by om today
 now changing this file to push it to github.com
 checcking the changes that come in git while doing trhe file 
+trying out creating and switching branches
